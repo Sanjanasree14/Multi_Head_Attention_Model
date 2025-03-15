@@ -66,6 +66,5 @@ class BiGRU(nn.Module):
 ## License
 This project is open-source and free to use under the MIT License.
 
----
-If you have any questions or suggestions, feel free to contribute! 🚀
+
 
